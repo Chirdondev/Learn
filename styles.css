@@ -1,0 +1,155 @@
+.Mom{
+display: flex;
+    height: 15vh;
+    width: 100%;
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    padding: 2px;
+
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+}
+.link{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+.h1{
+width: 50%;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 20px;
+    font-family:"Comic Sans MS";
+    font-size: 30px;
+    padding-bottom: 20px;
+
+}
+.second{
+padding:2px;
+    display: flex;
+    height: 30vh;
+}
+.img{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 70%;
+
+}
+.seca{display: flow;
+width: 30%;
+    height: 30vh;
+    padding-left:10px ;
+    justify-content: center;
+    align-content: center;
+}
+.image{
+    padding-left: 20px;
+}
+
+.z{ min-height: 80vh;
+  width: 33%;}
+.y{ min-height: 80vh;
+    width: 33%;}
+.x{ min-height: 80vh;
+    width: 33%;}
+
+.third{
+    width: 90%;
+    height: 30%;
+}
+
+.seconda{
+    width: 90%;
+    height: 30%;
+}
+
+
+.first {
+    width: 90%;
+    height: 30%;
+}
+
+.thirddiv {
+    display: flex;
+    height: 30vh;
+    padding-top: 20px;
+}
+button{background-color: chocolate;
+border-radius: 4px;
+}
+
+.middle{
+    min-height:80vh;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: blueviolet;
+    padding: 20px; }
+
+
+.footer{
+    display: flex;
+    min-height: 40vh;
+    justify-content: center;
+}
+
+.h4{
+    color: white;
+}
+
+.footer1{
+    width: 33%;
+    padding-top: 20px;
+}
+.footer2{
+    display: flow;
+    width: 33%;
+    padding-top: 20px;
+}
+.footer3{
+    width: 33%;
+    padding-top: 20px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.inside{
+    display: flex;
+    padding: 10px;
+}
+.caption{
+    padding-left: 20px;
+    padding-top: 4px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
